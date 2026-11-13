@@ -1,0 +1,30 @@
+{
+  "id": "sajo-jirugi-no2",
+  "name": "Sajo-Jirugi No2",
+  "sourceId": 954,
+  "sourceUrl": "https://www.blackbeltschools.com/syllabus/patterns.asp?pattern=954",
+  "grade": "10th Kup",
+  "meaning": "A second basic training pattern, also called 'four directional punch'; it repeats the No1 layout but blocks with the inner forearm.",
+  "movementCount": 15,
+  "startingPosition": "Parallel ready stance",
+  "endingPosition": "Left foot back to parallel ready stance",
+  "diagram": "No diagram description on the page; points A to D are referenced only in the movement text.",
+  "movements": [
+    { "n": 1, "footwork": "Right foot steps forward", "stance": "Right walking stance", "technique": "Obverse mid section punch", "direction": "A" },
+    { "n": 2, "footwork": "Right foot returns to left, then steps back", "stance": "Left walking stance", "technique": "Obverse middle inner forearm block", "direction": "B" },
+    { "n": 3, "footwork": "Right foot steps forward", "stance": "Right walking stance", "technique": "Obverse mid section punch", "direction": "B" },
+    { "n": 4, "footwork": "Right foot returns to left, then steps back", "stance": "Left walking stance", "technique": "Obverse middle inner forearm block", "direction": "C" },
+    { "n": 5, "footwork": "Right foot steps forward", "stance": "Right walking stance", "technique": "Obverse mid section punch", "direction": "C" },
+    { "n": 6, "footwork": "Right foot returns to left, then steps back", "stance": "Left walking stance", "technique": "Obverse middle inner forearm block", "direction": "D" },
+    { "n": 7, "footwork": "Right foot steps forward", "stance": "Right walking stance", "technique": "Obverse mid section punch", "direction": "D" },
+    { "n": 8, "footwork": "Right foot returns", "stance": "Parallel ready stance", "technique": "None", "direction": "A" },
+    { "n": 9, "footwork": "Left foot steps forward", "stance": "Left walking stance", "technique": "Obverse mid section punch", "direction": "A" },
+    { "n": 10, "footwork": "Left foot returns to right, then steps back", "stance": "Right walking stance", "technique": "Obverse middle inner forearm block", "direction": "D" },
+    { "n": 11, "footwork": "Left foot steps forward", "stance": "Left walking stance", "technique": "Obverse mid section punch", "direction": "D" },
+    { "n": 12, "footwork": "Left foot returns to right, then steps back", "stance": "Right walking stance", "technique": "Obverse middle inner forearm block", "direction": "C" },
+    { "n": 13, "footwork": "Left foot steps forward", "stance": "Left walking stance", "technique": "Obverse mid section punch", "direction": "C" },
+    { "n": 14, "footwork": "Left foot returns to right, then steps back", "stance": "Right walking stance", "technique": "Obverse middle inner forearm block", "direction": "B" },
+    { "n": 15, "footwork": "Left foot steps forward", "stance": "Left walking stance", "technique": "Obverse mid section punch", "direction": "B" }
+  ],
+  "notes": ["Fetched text was a condensed summary of the page's wording, so footwork phrasing is normalised. Movement 8 is a return to parallel ready stance with no technique."]
+}

@@ -1,0 +1,49 @@
+{
+ "gradeParam": 15,
+ "id": "5th-dan",
+ "name": "5th Dan",
+ "beltColour": "Black",
+ "type": "dan",
+ "rank": 5,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=15",
+ "practical": [
+  {
+   "title": "Moon-Moo",
+   "detail": "61 movements. Honours the 30th king of the Silla Dynasty, whose tomb is linked to the Sok Gul Am stone cave; the movements relate to the final digits of 661 AD."
+  },
+  {
+   "title": "So San",
+   "detail": "72 movements. Named after the monk Choi Hyong Ung, who organised monk soldiers who helped repel Japanese pirates in 1592."
+  },
+  {
+   "title": "Yong-Gae",
+   "detail": "49 movements. Named after General Yon Gae Somoon of the Koguryo Dynasty; the movements reference 649 AD."
+  }
+ ],
+ "theory": [
+  {
+   "question": "What is 'Instructor' in Korean?",
+   "answer": "Sabum"
+  }
+ ],
+ "terminology": [],
+ "patterns": [
+  "Moon-Moo",
+  "So San",
+  "Yong-Gae"
+ ],
+ "sparring": [],
+ "otherSections": [
+  {
+   "heading": "Examiner note",
+   "items": [
+    "Variations of the grading format are at the examiner's discretion; sheet is for guidance only."
+   ]
+  }
+ ],
+ "notes": [
+  "Fetcher summarised the page; per-pattern movement lists were omitted.",
+  "Fetcher said the site lists 26 patterns but the list it gave contains 26 names while an earlier fetch said 28.",
+  "Removed lone terminology entry that came from the site-wide quiz teaser widget, not the syllabus: Instructor"
+ ]
+}

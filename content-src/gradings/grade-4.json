@@ -1,0 +1,129 @@
+{
+ "gradeParam": 4,
+ "id": "7th-kup",
+ "name": "7th Kup",
+ "beltColour": "Yellow with green stripe",
+ "type": "kup",
+ "rank": 7,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=4",
+ "practical": [
+  {
+   "title": "Pattern: Do-San",
+   "detail": "24 movements"
+  },
+  {
+   "title": "Walking stance: back fist side strike",
+   "detail": ""
+  },
+  {
+   "title": "Turning kick into knifehand guarding block",
+   "detail": ""
+  },
+  {
+   "title": "Walking stance: wedging block",
+   "detail": ""
+  },
+  {
+   "title": "Side kick into guarding block",
+   "detail": ""
+  },
+  {
+   "title": "Walking stance: straight fingertip thrust",
+   "detail": "Spear fingertips"
+  },
+  {
+   "title": "Three-step sparring (Sambo Matsoki)",
+   "detail": "Numbers 5, 6 and 7"
+  }
+ ],
+ "theory": [
+  {
+   "question": "What is the meaning of the green belt?",
+   "answer": "Green stands for the growth of the plant, as Tae Kwon-Do skills begin to develop."
+  },
+  {
+   "question": "What is 'Pushing Block' in Korean? (quiz widget)",
+   "answer": "Miro Makgi"
+  }
+ ],
+ "terminology": [
+  {
+   "category": "body",
+   "english": "Fingertips",
+   "korean": "Sonkut"
+  },
+  {
+   "category": "stance",
+   "english": "Fixed stance",
+   "korean": "Gojong sogi"
+  },
+  {
+   "category": "other",
+   "english": "Free sparring",
+   "korean": "Jayoo matsoki"
+  },
+  {
+   "category": "other",
+   "english": "Straight",
+   "korean": "Sun"
+  },
+  {
+   "category": "technique",
+   "english": "Straight fingertip thrust",
+   "korean": "Sun Sonkut Tulgi"
+  },
+  {
+   "category": "technique",
+   "english": "Thrust",
+   "korean": "Tulgi"
+  },
+  {
+   "category": "technique",
+   "english": "Turning kick",
+   "korean": "Dollyo Chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Wedging block",
+   "korean": "Hechyo Makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Wrist release",
+   "korean": "Jappyosol Tae"
+  },
+  {
+   "category": "technique",
+   "english": "Pushing block",
+   "korean": "Miro Makgi"
+  }
+ ],
+ "patterns": [
+  "Do-San"
+ ],
+ "sparring": [
+  "Three-step sparring (Sambo Matsoki) numbers 5-7. Attack: three middle-section front punches in walking stance, starting right leg back in low block. Defences start from parallel ready stance.",
+  "5: Right-leg-back L-stance, two middle outer forearm blocks to the inside. Counter: move right into parallel sitting stance, left outer forearm block and high punch together.",
+  "6: Right-leg-back L-stance, two middle knifehand blocks to the inside. Counter: move right into parallel sitting stance, left outer knifehand guard and high inward knifehand strike to the neck.",
+  "7: Right-leg-back L-stance, two middle outer forearm blocks to the inside. Counter: slide back at 45 degrees into right L-stance with forearm guarding block, right front kick landing in right walking stance double punch."
+ ],
+ "otherSections": [
+  {
+   "heading": "Do-San pattern (24 movements)",
+   "items": [
+    "Named after patriot Ahn Chang-Ho (1876-1938). Starts in parallel ready stance; ends with right foot back to ready posture.",
+    "1-4: High outer forearm side blocks and middle punches in alternating walking stances, toward B then A.",
+    "5-8: L-stance knifehand guarding block, straight fingertip thrust, left and right back-fist side strikes.",
+    "9-12: Same as 1-4, toward E and F.",
+    "13-16: Wedging block, front snap kick, two fast punches (15-16).",
+    "17-20: Same as 13-16, toward CF, kicking with left foot.",
+    "21-22: Rising forearm blocks, left then right.",
+    "23-24: Middle side knifehand strikes from sitting stance, left then right."
+   ]
+  }
+ ],
+ "notes": [
+  "Free sparring (Jayoo Matsoki) appears only in the terminology list; no free-sparring requirement on the page.",
+  "Belt colour taken from the theory section."
+ ]
+}

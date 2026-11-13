@@ -1,0 +1,138 @@
+{
+ "gradeParam": 8,
+ "id": "3rd-kup",
+ "name": "3rd Kup",
+ "beltColour": "Blue with red stripe",
+ "type": "kup",
+ "rank": 3,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=8",
+ "practical": [
+  {
+   "title": "Pattern of the student's choice",
+   "detail": "excluding Toi Gye"
+  },
+  {
+   "title": "Pattern of the grading examiner's choice",
+   "detail": ""
+  },
+  {
+   "title": "Pattern: Toi Gye",
+   "detail": ""
+  },
+  {
+   "title": "3 Step Semi-free Sparring",
+   "detail": "advanced"
+  },
+  {
+   "title": "1 Step Sparring",
+   "detail": "basic"
+  },
+  {
+   "title": "Free Sparring",
+   "detail": ""
+  },
+  {
+   "title": "One Step Sparring (Ilbo Matsoki)",
+   "detail": "Uses the existing 3 step counter attacks with additions, numbers 2 to 10 listed on the page (see sparring)"
+  }
+ ],
+ "theory": [
+  {
+   "question": "Meaning of Red Belt",
+   "answer": "Red means danger: it tells the student to keep control and warns an opponent to keep away."
+  },
+  {
+   "question": "What is One Step Sparring?",
+   "answer": "The most realistic form of sparring, since the defender cannot predict the attack, so quick reflexes are needed to defend and win. It differs from free sparring in that takedowns, arm locks and joint-breaking techniques are practised. Both students normally start in parallel stance, though the instructor may vary this."
+  }
+ ],
+ "terminology": [
+  {
+   "category": "technique",
+   "english": "Front pushing kick",
+   "korean": "Ap cha milgi"
+  },
+  {
+   "category": "technique",
+   "english": "Flying kick",
+   "korean": "Twimyo chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Waving kick",
+   "korean": "Doro chagi"
+  },
+  {
+   "category": "technique",
+   "english": "U-shaped block",
+   "korean": "Digutja makgi"
+  },
+  {
+   "category": "technique",
+   "english": "W-shaped block",
+   "korean": "San makgi"
+  },
+  {
+   "category": "other",
+   "english": "Downward",
+   "korean": "Naeryo"
+  },
+  {
+   "category": "other",
+   "english": "Flying",
+   "korean": "Twimyo"
+  },
+  {
+   "category": "other",
+   "english": "Pressing",
+   "korean": "Noolo"
+  },
+  {
+   "category": "body",
+   "english": "Upset fingertips",
+   "korean": "Dwijibun sonkut"
+  }
+ ],
+ "patterns": [
+  "Toi-Gye"
+ ],
+ "sparring": [
+  "ONE STEP SPARRING (ILBO MATSOKI): Use the existing 3 step counter attacks with additions, as listed below. Both attacker and defender start in parallel ready position; attacker steps forward with right leg into walking stance and punches with right hand. On the second occasion the same attacker steps forward with left leg and left hand punching. (Only right hand side is shown.)",
+  "2. Move the left leg forward 45 degrees, move the right leg behind the opponent's front leg into a left 'L' stance, execute a right knifehand strike to the neck, followed by side kick with right foot and step away.",
+  "3. In a left 'L' stance execute a right front backfist strike to the face followed by an upward punch (left hand) and hooking punch (right hand).",
+  "4. Move the left leg into a sitting stance, focus with left hand, execute double punch, followed by turning kick with right leg followed by reverse side kick with the left leg.",
+  "5. Move to the right into sitting stance parallel to opponent. Execute a left outer forearm block and a high section punch simultaneously, grab head with both hands and pull down whilst performing a left knee strike.",
+  "6. Move to the right, form a sitting stance parallel to opponent, execute left outer knifehand guard and a high inward knifehand strike to the neck, followed by upper elbow strike with left elbow.",
+  "7. Move right foot to left foot, pushing off left foot slide back at a 45 degree angle into a right 'L' stance with a forearm guarding block, execute a right front kick landing in a right walking stance double punch, reaching under their punching arm perform a hooking block to the top (right hand), brace elbow with left hand and take forward into arm lock.",
+  "8. Move right foot to left foot, pushing off left foot slide back at a 45 degree angle into a right 'L' stance with a forearm guarding block. Execute a right side kick landing in left 'L' stance, right front back fist strike or knifehand strike to the neck, grab their punching hand with your left hand, pull in and elbow strike to their head with your right arm whilst sliding into vertical stance.",
+  "9. Slide back at a 45 degree angle to the outside of your opponent into a right 'L' stance with a knifehand guarding block. Execute a right mid section turning kick, put the kicking foot behind the opponent's front foot landing in vertical stance while executing a knifehand strike to the neck, step through, put your right arm under their punching arm and using your inner forearm to their main neck artery (carotid artery), grab your inner forearm with your other hand and squeeze.",
+  "10. Move right foot to left foot pushing off left foot, slide back at a 45 degree angle into a right 'L' stance with a knifehand guarding block. Execute a reverse side kick, land in a right walking stance whilst executing a left hand reverse knifehand strike to the philtrum, step out perform turning kick with your left leg, step down reverse turning kick with your right leg. (attacker performs checking block).",
+  "THREE STEP SEMI-FREE SPARRING (advanced) and Free Sparring are listed in practical; no further detail on this page."
+ ],
+ "otherSections": [
+  {
+   "heading": "Sheet note",
+   "items": [
+    "Variations of the grading format are at the examiner's discretion; the sheet is for guidance only."
+   ]
+  },
+  {
+   "heading": "Toi-Gye pattern summary",
+   "items": [
+    "37 movements; starts in closed ready stance B; named for the scholar Yi Hwang (16th century); 37 refers to his birthplace at 37 degrees latitude."
+   ]
+  },
+  {
+   "heading": "Quiz question on page",
+   "items": [
+    "Q: What is 'Free sparring' in Korean? A: Jayoo matsoki"
+   ]
+  }
+ ],
+ "notes": [
+  "One step sparring list on the page begins at number 2 (number 1 is absent, presumably the existing basic counter).",
+  "Page uses 'Both ... start in parallel ready position' and says the right hand side only is shown.",
+  "Source typo 'Noolo' (vs 'Noollo' at 4th Kup) for Pressing; 'Dwijibun sonkut' as written.",
+  "Terminology categories are my own classification."
+ ]
+}

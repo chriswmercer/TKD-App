@@ -1,0 +1,54 @@
+{
+ "gradeParam": 12,
+ "id": "2nd-dan",
+ "name": "2nd Dan",
+ "beltColour": "Black",
+ "type": "dan",
+ "rank": 2,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=12",
+ "practical": [
+  {
+   "title": "Choong-Jang",
+   "detail": "52 movements. Named after General Kim Duk Ryang, who died in prison aged 27. Ends with a left-hand attack, then return to ready posture. Includes forearm and guarding blocks, finger and elbow thrusts, snap and turning kicks, knife-hand strikes, crescent and double punches, back-fist strikes."
+  },
+  {
+   "title": "Eui-Am",
+   "detail": "45 movements. Named after Son Byong Hi, a leader of the 1919 independence movement; 45 relates to his age when he renamed Dong Hak as Chondo Kyo in 1905. Includes X-fist and wedging blocks, twist and reverse turning kicks, back-fist and side strikes, palm blocks, punches. Ends with return to ready posture."
+  },
+  {
+   "title": "Ko-dang",
+   "detail": "39 movements. Named after the patriot Cho Man Sik; 39 relates to his imprisonments and his birthplace on the 39th parallel. Includes pushing and pressing palm blocks, forearm and knife-hand blocks, back piercing kicks, elbow thrusts, hooking kicks, cross cuts, jump X-stances. Ends with return to ready stance."
+  }
+ ],
+ "theory": [],
+ "terminology": [],
+ "patterns": [
+  "Choong-Jang",
+  "Eui-Am",
+  "Ko-dang"
+ ],
+ "sparring": [],
+ "otherSections": [
+  {
+   "heading": "Examiner note",
+   "items": [
+    "Variations of the grading format are at the examiner's discretion."
+   ]
+  },
+  {
+   "heading": "Articles linked",
+   "items": [
+    "What is Tae Kwon-Do?",
+    "The History of the TAGB",
+    "TAGB Sparring Guide",
+    "What are patterns and why do we do them?",
+    "Korean quiz"
+   ]
+  }
+ ],
+ "notes": [
+  "Page names the pattern 'Choong-Jang' here; the site's pattern list elsewhere may spell it differently.",
+  "Fetcher summarised the page; only one Korean term and no theory Q&A or sparring were reported.",
+  "Removed lone terminology entry that came from the site-wide quiz teaser widget, not the syllabus: Double Forearm Block"
+ ]
+}

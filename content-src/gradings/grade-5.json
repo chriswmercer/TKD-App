@@ -1,0 +1,190 @@
+{
+ "gradeParam": 5,
+ "id": "6th-kup",
+ "name": "6th Kup",
+ "beltColour": "Green",
+ "type": "kup",
+ "rank": 6,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=5",
+ "practical": [
+  {
+   "title": "Combinations in line from patterns",
+   "detail": ""
+  },
+  {
+   "title": "Pattern set by the grading examiner",
+   "detail": ""
+  },
+  {
+   "title": "Pattern: Won-Hyo",
+   "detail": "28 movements"
+  },
+  {
+   "title": "Three-step sparring (Sambo Matsoki)",
+   "detail": "Numbers 8, 9 and 10"
+  },
+  {
+   "title": "Semi-free sparring (Ban Jayoo Matsoki)",
+   "detail": "Basic level"
+  }
+ ],
+ "theory": [
+  {
+   "question": "What is 3 Step Semi-Free Sparring?",
+   "answer": "A step beyond basic 3 step sparring: three attacks in a row, three blocks or evasions, then a counter-attack."
+  },
+  {
+   "question": "What is 'Upward Punch' in Korean? (quiz widget)",
+   "answer": "Ollyo Jirugi"
+  }
+ ],
+ "terminology": [
+  {
+   "category": "other",
+   "english": "2 Step Sparring",
+   "korean": "Ibo Matsoki"
+  },
+  {
+   "category": "other",
+   "english": "Sparring",
+   "korean": "Matsoki"
+  },
+  {
+   "category": "stance",
+   "english": "Bending Ready Stance 'A'",
+   "korean": "Goburyo Sogi"
+  },
+  {
+   "category": "stance",
+   "english": "Closed Ready Stance 'A'",
+   "korean": "Moa Junbi Sogi 'A'"
+  },
+  {
+   "category": "stance",
+   "english": "Vertical Stance",
+   "korean": "Soojik Sogi"
+  },
+  {
+   "category": "technique",
+   "english": "Circular Block",
+   "korean": "Dollymio Makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Hooking block",
+   "korean": "Golcho makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Waist Block",
+   "korean": "Hori Makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Side Punch",
+   "korean": "Yop Jirugi"
+  },
+  {
+   "category": "technique",
+   "english": "Vertical punch",
+   "korean": "Sewo jirugi"
+  },
+  {
+   "category": "technique",
+   "english": "Knee Kick",
+   "korean": "Moorup Chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Reverse turning kick",
+   "korean": "Bandae dollyo chagi"
+  },
+  {
+   "category": "body",
+   "english": "Back",
+   "korean": "Dwit"
+  },
+  {
+   "category": "body",
+   "english": "Back Heel",
+   "korean": "Dwit Chook"
+  },
+  {
+   "category": "body",
+   "english": "Back Sole",
+   "korean": "Dwit Kumchi"
+  },
+  {
+   "category": "body",
+   "english": "Foot parts",
+   "korean": "Hanbansin"
+  },
+  {
+   "category": "body",
+   "english": "Hand parts",
+   "korean": "Sangbansin"
+  },
+  {
+   "category": "technique",
+   "english": "Upward Punch",
+   "korean": "Ollyo Jirugi"
+  }
+ ],
+ "patterns": [
+  "Won-Hyo"
+ ],
+ "sparring": [
+  "Three-step sparring (Sambo Matsoki) numbers 8-10. Attack: three middle-section front punches in walking stance, starting right leg back in low block. Defences start from parallel ready stance.",
+  "8: Right L-stance, middle knifehand block to the inside twice. Counter: slide back at 45 degrees into right L-stance with forearm guarding block, right side kick landing in left L-stance, then right back fist or knifehand strike to the neck.",
+  "9: Right L-stance, middle palm push block to the outside three times. Counter: slide to the outside at 45 degrees into right L-stance with knifehand guarding block, right middle turning kick landing in vertical stance with knifehand strike to the neck.",
+  "10: Right L-stance, middle knifehand block to the inside twice. Counter: slide back at 45 degrees into right L-stance with knifehand guarding block, reverse side kick landing in right walking stance with left reverse knifehand strike to the philtrum.",
+  "Basic three-step semi-free sparring (Ban Jayoo Matsoki): attacker starts in L-stance with guarding block, either leg back; defender starts in parallel stance. Attack is back-leg-first kicking (front, side or turning kick); defence is any block suited to the kick; counter is a reverse punch."
+ ],
+ "otherSections": [
+  {
+   "heading": "Won-Hyo pattern (28 movements)",
+   "items": [
+    "Named after the monk who brought Buddhism to the Silla Dynasty in 686 AD. Starts in Closed Ready Stance A; ends with right foot back to ready posture.",
+    "1 Twin forearm block, left foot to B (right L-stance)",
+    "2 High inward knifehand strike to B",
+    "3 Middle punch to B (left fixed stance)",
+    "4 Twin forearm block, left foot to right foot, right foot to A (left L-stance)",
+    "5 High inward knifehand strike to A",
+    "6 Middle punch to A (right fixed stance)",
+    "7 Right bending ready stance A, facing D",
+    "8 Middle side piercing kick to D",
+    "9 Knifehand guarding block to D (right L-stance)",
+    "10 Knifehand guarding block to D (left L-stance)",
+    "11 Knifehand guarding block to D (right L-stance)",
+    "12 Sun Sonkut Tulgi to D, right walking stance",
+    "13 Twin forearm block to E (right L-stance)",
+    "14 High inward knifehand strike to E",
+    "15 Middle punch to E (left fixed stance)",
+    "16 Twin forearm block, right foot to F (left L-stance)",
+    "17 High inward knifehand strike to F",
+    "18 Middle punch to F (right fixed stance)",
+    "19 Circular block to C with right inner forearm (left walking stance)",
+    "20 Low front snap kick to C (right foot)",
+    "21 Middle punch to C (right walking stance)",
+    "22 Circular block to CE with left inner forearm",
+    "23 Low front snap kick to C (left foot)",
+    "24 Middle punch to C (left walking stance)",
+    "25 Left bending ready stance A, facing C",
+    "26 Middle side piercing kick to C (right foot)",
+    "27 Middle forearm guarding block to B (right L-stance)",
+    "28 Middle forearm guarding block to A (left L-stance)"
+   ]
+  },
+  {
+   "heading": "Disclaimer",
+   "items": [
+    "Examiner may vary the grading format; sheet is for guidance only."
+   ]
+  }
+ ],
+ "notes": [
+  "Belt colour is not stated in the page text (only a belt image 'grade09').",
+  "Terminology categories are not assigned on the page; they were grouped by the collector.",
+  "Won-Hyo movement 22 'CE' direction as read from the page summary."
+ ]
+}

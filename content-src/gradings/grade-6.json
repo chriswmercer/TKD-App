@@ -1,0 +1,123 @@
+{
+ "gradeParam": 6,
+ "id": "5th-kup",
+ "name": "5th Kup",
+ "beltColour": "Green with blue stripe",
+ "type": "kup",
+ "rank": 5,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=6",
+ "practical": [
+  {
+   "title": "Combinations in line from Patterns",
+   "detail": ""
+  },
+  {
+   "title": "Pattern of the student's choice",
+   "detail": "excluding Yul-Gok"
+  },
+  {
+   "title": "Pattern set by the grading examiner",
+   "detail": ""
+  },
+  {
+   "title": "Pattern: Yul-Gok",
+   "detail": ""
+  },
+  {
+   "title": "2 Step Sparring",
+   "detail": "Numbers 1, 2, 3 & 4"
+  },
+  {
+   "title": "Semi-free Sparring",
+   "detail": "intermediate"
+  },
+  {
+   "title": "Free Sparring",
+   "detail": ""
+  }
+ ],
+ "theory": [
+  {
+   "question": "Meaning of Blue Belt",
+   "answer": "Blue stands for the heaven toward which a growing plant reaches, becoming a tall tree, as Tae Kwon-Do training advances."
+  },
+  {
+   "question": "Two Step Sparring",
+   "answer": "A drill for intermediate students to learn more advanced techniques. Timing and distance match three step sparring, but the attacks are more varied, so the attacker can build different combinations."
+  }
+ ],
+ "terminology": [
+  {
+   "category": "stance",
+   "english": "'X' Stance",
+   "korean": "Kyocha Sogi"
+  },
+  {
+   "category": "technique",
+   "english": "Double Forearm Block",
+   "korean": "Doo Palmok Makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Hooking kick",
+   "korean": "Golcho chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Reverse knifehand guarding block",
+   "korean": "Sonkal dung daebi makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Upset punch",
+   "korean": "Dwijibo jirugi"
+  },
+  {
+   "category": "body",
+   "english": "Elbow",
+   "korean": "Palkup"
+  },
+  {
+   "category": "other",
+   "english": "Jumping",
+   "korean": "Twigi"
+  }
+ ],
+ "patterns": [
+  "Yul-Gok"
+ ],
+ "sparring": [
+  "TWO STEP SPARRING (IBO MATSOKI): Attacker starts right leg back, forearm guarding block. Defence starts in parallel ready stance.",
+  "1. Attack = High punch, front kick. Defence = Left leg back, walking stance, rising block; right leg back, walking stance, X fist pressing block. Counter = Twin vertical punch.",
+  "2. Attack = Side punch, fixed stance, turning kick. Defence = Right leg back, L stance, upward palm block; left leg back, L stance, waist block. Counter = Slide forward into right L stance, right side elbow.",
+  "3. Attack = Front kick, twin vertical punch. Defence = Right leg back, walking stance, X fist pressing block; left leg back, walking stance, outer forearm wedging block. Counter = Knee kick, at the same time pull opponent's shoulders.",
+  "4. Attack = Flat fingertip thrust, side kick. Defence = Right leg back, walking stance, knifehand rising block; left leg back, L stance, inward palm block. Counter = Front kick to coccyx, twin upset punch to kidneys.",
+  "THREE STEP SEMI-FREE SPARRING (BAN JAYOO MATSOKI), Intermediate Level: Attackers start in L stance, guarding block; defenders start in parallel stance. The attacker starts with either leg back every time.",
+  "Attack = Kicking with back leg first, any kick in any order from: front kick, side kick, turning kick, reverse side kick. Defence = Any block suitable for each individual kick. Counter = Any hand attack."
+ ],
+ "otherSections": [
+  {
+   "heading": "Sheet note",
+   "items": [
+    "Variations of the grading format are at the examiner's discretion; the sheet is for guidance only."
+   ]
+  },
+  {
+   "heading": "Yul-Gok pattern summary",
+   "items": [
+    "38 movements; starts in parallel ready stance; named for the scholar Yi I (1536-1584), nicknamed the 'Confucius of Korea'; the 38 refers to his birthplace at 38 degrees latitude."
+   ]
+  },
+  {
+   "heading": "Quiz question on page",
+   "items": [
+    "Q: What is 'Sweeping kick' in Korean? A: Goro chagi"
+   ]
+  }
+ ],
+ "notes": [
+  "Page title/heading is 5th Kup; belt colour taken from the 'Meaning of Blue Belt' theory item.",
+  "Source typo 'alos' (also) in two step sparring theory.",
+  "Pattern movement details are in the patterns collection, not repeated here."
+ ]
+}

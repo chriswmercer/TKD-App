@@ -1,0 +1,162 @@
+{
+ "gradeParam": 3,
+ "id": "8th-kup",
+ "name": "8th Kup",
+ "beltColour": "Yellow",
+ "type": "kup",
+ "rank": 8,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=3",
+ "practical": [
+  {
+   "title": "L stance: twin forearm block",
+   "detail": ""
+  },
+  {
+   "title": "Walking stance: front kick / double punch",
+   "detail": ""
+  },
+  {
+   "title": "L stance: inward block",
+   "detail": ""
+  },
+  {
+   "title": "Turning kick and guarding block",
+   "detail": ""
+  },
+  {
+   "title": "L stance: forearm guarding block",
+   "detail": ""
+  },
+  {
+   "title": "Pattern: Dan-Gun",
+   "detail": "21 movements"
+  },
+  {
+   "title": "Three-step sparring (Sambo Matsoki)",
+   "detail": "Numbers 1, 2, 3 and 4"
+  }
+ ],
+ "theory": [
+  {
+   "question": "What is 'Closed Ready Stance C' in Korean?",
+   "answer": "Moa chunbi Sogi 'C'."
+  },
+  {
+   "question": "What is three-step sparring?",
+   "answer": "A beginner's exercise for learning basics such as distance, facing, forearm conditioning, blocks, stances, counter-attacks and timing."
+  }
+ ],
+ "terminology": [
+  {
+   "category": "technique",
+   "english": "Backfist",
+   "korean": "Dung joomuk"
+  },
+  {
+   "category": "technique",
+   "english": "Backfist strike",
+   "korean": "Dung joomuk taerigi"
+  },
+  {
+   "category": "technique",
+   "english": "Guarding block",
+   "korean": "Daebi makgi"
+  },
+  {
+   "category": "other",
+   "english": "Inward",
+   "korean": "Anaero"
+  },
+  {
+   "category": "body",
+   "english": "Knifehand",
+   "korean": "Sonkal"
+  },
+  {
+   "category": "technique",
+   "english": "Knifehand guarding block",
+   "korean": "Sonkal daebi makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Knifehand strike",
+   "korean": "Sonkal taerigi"
+  },
+  {
+   "category": "other",
+   "english": "Outward",
+   "korean": "Bakaero"
+  },
+  {
+   "category": "body",
+   "english": "Palm",
+   "korean": "Sonbadak"
+  },
+  {
+   "category": "other",
+   "english": "Semi-free sparring",
+   "korean": "Ban jayoo matsoki"
+  },
+  {
+   "category": "technique",
+   "english": "Side piercing kick",
+   "korean": "Yop chajirugi"
+  },
+  {
+   "category": "technique",
+   "english": "Twin forearm block",
+   "korean": "Sang palmok makgi"
+  },
+  {
+   "category": "stance",
+   "english": "Closed Ready Stance 'C'",
+   "korean": "Moa chunbi Sogi 'C'"
+  }
+ ],
+ "patterns": [
+  "Dan-Gun"
+ ],
+ "sparring": [
+  "Three-step sparring (Sambo Matsoki) numbers 1-4. Attack: three middle-section front punches in walking stance, starting right leg back in low block. All defences start from parallel ready stance.",
+  "1: Right-leg-back walking stance, inner middle forearm block three times. Counter: reverse punch.",
+  "2: Left-leg-back L-stance, outer middle forearm block three times. Counter: advance left leg 45 degrees, bring right leg behind the opponent's front leg into left L-stance, right knifehand strike to the neck.",
+  "3: Left-leg-back L-stance, inward outer forearm block three times. Counter: slide forward into left L-stance, right front backfist to the face.",
+  "4: Left-leg-back L-stance, inward forearm block to the outside three times. Counter: move into sitting stance, focus with left hand, then double punch."
+ ],
+ "otherSections": [
+  {
+   "heading": "Dan-Gun pattern (21 movements)",
+   "items": [
+    "Named after the legendary founder of Korea, 2333 BC. Starts and ends in parallel ready stance.",
+    "1 Knifehand guarding block, L-stance toward B",
+    "2 High punch, walking stance toward B",
+    "3 Knifehand guarding block, L-stance toward A",
+    "4 High punch, walking stance toward A",
+    "5 Low block, walking stance toward D",
+    "6-8 High punches toward D (right, left, right)",
+    "9 Twin forearm block, L-stance toward E",
+    "10 High punch toward E",
+    "11 Twin forearm block, L-stance toward F",
+    "12 High punch toward F",
+    "13 Low block, walking stance toward C",
+    "14 Rising block (left), continuous with 13",
+    "15-17 Rising blocks toward C (right, left, right)",
+    "18 Middle outward knifehand strike, L-stance toward B",
+    "19 High punch toward B",
+    "20 Middle outward knifehand strike, L-stance toward A",
+    "21 High punch toward A",
+    "End: left foot back to ready posture."
+   ]
+  },
+  {
+   "heading": "Disclaimer",
+   "items": [
+    "Examiner may vary the grading format."
+   ]
+  }
+ ],
+ "notes": [
+  "Belt colour is not stated in the page text (only a belt image 'grade09').",
+  "Movement 14 is described as a left rising block continuous with 13; 15 is stated as right, 16 left, 17 right (as read from fetcher summary)."
+ ]
+}

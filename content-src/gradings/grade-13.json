@@ -1,0 +1,53 @@
+{
+ "gradeParam": 13,
+ "id": "3rd-dan",
+ "name": "3rd Dan",
+ "beltColour": "Black",
+ "type": "dan",
+ "rank": 3,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=13",
+ "practical": [
+  {
+   "title": "Choi-Jong",
+   "detail": "46 movements. Starts from closed ready stance C; ends with right foot returning to ready posture. Named after General Choi Yong, a 14th-century Koryo commander respected for loyalty and humility."
+  },
+  {
+   "title": "Sam-IL",
+   "detail": "33 movements. Starts from closed ready stance C; ends with a low front snap kick and twin vertical punch with stamp, then return to ready posture. Refers to the 1 March 1919 independence movement; 33 movements for the 33 patriots."
+  },
+  {
+   "title": "Yoo-Sin",
+   "detail": "68 movements. Starts from warrior ready stance B; ends with right foot returning to ready posture. Named after General Kim Yoo Sin of the Silla Dynasty; 68 refers to 668 AD, the year Korea was unified. The warrior ready stance represents a sword drawn on the right, symbolising his error in following his king's orders to fight alongside a foreign force against his own nation."
+  }
+ ],
+ "theory": [
+  {
+   "question": "What is 'Outward' in Korean?",
+   "answer": "Bakaero"
+  }
+ ],
+ "terminology": [],
+ "patterns": [
+  "Choi-Jong",
+  "Sam-IL",
+  "Yoo-Sin"
+ ],
+ "sparring": [],
+ "otherSections": [
+  {
+   "heading": "Articles linked",
+   "items": [
+    "What is Tae Kwon-Do?",
+    "The History of the TAGB",
+    "TAGB Sparring Guide",
+    "What are patterns and why do we do them?",
+    "Korean quiz"
+   ]
+  }
+ ],
+ "notes": [
+  "Page does not state a belt colour; Black assumed for Dan grades.",
+  "Fetcher summarised the page; detailed per-pattern movement lists were not captured here.",
+  "Removed lone terminology entry that came from the site-wide quiz teaser widget, not the syllabus: Outward"
+ ]
+}

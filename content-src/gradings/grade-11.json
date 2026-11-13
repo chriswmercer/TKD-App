@@ -1,0 +1,59 @@
+{
+  "gradeParam": 11,
+  "id": "1st-dan",
+  "name": "1st Dan",
+  "beltColour": "Black",
+  "type": "dan",
+  "rank": 1,
+  "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=11",
+  "practical": [
+    { "title": "Ge-Baek", "detail": "44 movements. Named after a general of the Baek Je Dynasty; reflects military discipline. Starts from parallel ready stance; ends with right foot returning to ready posture." },
+    { "title": "Kwang-Gae", "detail": "39 movements. Named after a 19th-century Koguryo king who regained lost territory; the movement count relates to the year he took the throne. Starts from parallel stance with heaven hand; ends with left foot returning to ready posture." },
+    { "title": "Po-Eun", "detail": "36 movements. Named after a loyal subject and poet from the end of the Koryo Dynasty. Starts from parallel stance with heaven hand; ends with left foot returning to ready posture." }
+  ],
+  "theory": [
+    { "question": "What is 'Arc hand' in Korean?", "answer": "Bandal son" }
+  ],
+  "terminology": [
+    { "category": "technique", "english": "Arc hand", "korean": "Bandal son" },
+    { "category": "technique", "english": "9 shaped block", "korean": "Gutcha makgi" },
+    { "category": "technique", "english": "Angle punch", "korean": "Giokja jirugi" },
+    { "category": "body", "english": "Arm", "korean": "Pal" },
+    { "category": "technique", "english": "Back elbow thrust", "korean": "Dwit palkup taerigi" },
+    { "category": "body", "english": "Back hand", "korean": "sondung" },
+    { "category": "body", "english": "Back of forearm", "korean": "Dung palmok" },
+    { "category": "body", "english": "Base of knifehand", "korean": "Sonkal batang" },
+    { "category": "other", "english": "Breaking", "korean": "Gyokpa" },
+    { "category": "body", "english": "Chest", "korean": "Gasum" },
+    { "category": "technique", "english": "Consecutive kick", "korean": "Yonsok chagi" },
+    { "category": "technique", "english": "Crescent kick", "korean": "Bandal chagi" },
+    { "category": "body", "english": "Eye", "korean": "Angoo" },
+    { "category": "body", "english": "Fingers", "korean": "Songarak" },
+    { "category": "body", "english": "Flat fingertips", "korean": "Opun sonkut" },
+    { "category": "technique", "english": "Grabbing", "korean": "Butjaba" },
+    { "category": "technique", "english": "Horizontal punch", "korean": "Soopyong jirugi" },
+    { "category": "body", "english": "Knuckle fist", "korean": "Joongi joomuk" },
+    { "category": "body", "english": "Leg", "korean": "Dari" },
+    { "category": "technique", "english": "Reverse knifehand block", "korean": "Sonkal dung makgi" },
+    { "category": "technique", "english": "Rising knee kick", "korean": "Ollyo moorup chagi" },
+    { "category": "technique", "english": "Rising palm heel block", "korean": "Ollyo sonbadak makgi" },
+    { "category": "other", "english": "Sliding", "korean": "Mikulgi" },
+    { "category": "body", "english": "Straight fingertips", "korean": "Sun sonkut" },
+    { "category": "other", "english": "Turn", "korean": "Dolgi" },
+    { "category": "technique", "english": "Twin side elbow thrust", "korean": "Sang yop palkup tulgi" },
+    { "category": "technique", "english": "U-shaped grasp", "korean": "Mong dung i japki" },
+    { "category": "other", "english": "Under", "korean": "Mit" },
+    { "category": "body", "english": "Under fist", "korean": "Mit joomuk" },
+    { "category": "body", "english": "Under forearm", "korean": "Mit palmok" }
+  ],
+  "patterns": ["Ge-Baek", "Kwang-Gae", "Po-Eun"],
+  "sparring": [],
+  "otherSections": [
+    { "heading": "Articles linked", "items": ["What is Tae Kwon-Do?", "The History of the TAGB", "TAGB Sparring Guide", "What are patterns and why do we do them?", "Korean quiz"] }
+  ],
+  "notes": [
+    "Fetcher summarised the page and refused verbatim dumps; terminology list had 30 pairs and may not be exhaustive.",
+    "No sparring or separate theory section found beyond the single Arc hand quiz question.",
+    "Term categories assigned by the collector, not stated on the page."
+  ]
+}

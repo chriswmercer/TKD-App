@@ -1,0 +1,30 @@
+{
+  "id": "sajo-jirugi-no1",
+  "name": "Sajo-Jirugi No1",
+  "sourceId": 953,
+  "sourceUrl": "https://www.blackbeltschools.com/syllabus/patterns.asp?pattern=953",
+  "grade": "10th Kup",
+  "meaning": "A basic training pattern whose name means 'four directional punch'; the student punches and blocks while moving toward each of four points.",
+  "movementCount": 15,
+  "startingPosition": "Parallel ready stance",
+  "endingPosition": "Bring the left foot back to parallel ready stance",
+  "diagram": "No diagram description on the page; points A to D are referenced only in the movement text.",
+  "movements": [
+    { "n": 1, "footwork": "Move right foot forward", "stance": "Right walking stance", "technique": "Obverse mid section punch", "direction": "A" },
+    { "n": 2, "footwork": "Bring right foot back to left, then move right foot back", "stance": "Left walking stance", "technique": "Obverse low section outer forearm block", "direction": "B" },
+    { "n": 3, "footwork": "Move right foot forward", "stance": "Right walking stance", "technique": "Obverse mid section punch", "direction": "B" },
+    { "n": 4, "footwork": "Bring right foot back to left, then move right foot back", "stance": "Left walking stance", "technique": "Obverse low section outer forearm block", "direction": "C" },
+    { "n": 5, "footwork": "Move right foot forward", "stance": "Right walking stance", "technique": "Obverse mid section punch", "direction": "C" },
+    { "n": 6, "footwork": "Bring right foot back to left, then move right foot back", "stance": "Left walking stance", "technique": "Obverse low section outer forearm block", "direction": "D" },
+    { "n": 7, "footwork": "Move right foot forward", "stance": "Right walking stance", "technique": "Obverse mid section punch", "direction": "D" },
+    { "n": 8, "footwork": "Bring right foot back", "stance": "Parallel ready stance", "technique": "None", "direction": "A" },
+    { "n": 9, "footwork": "Move left foot forward", "stance": "Left walking stance", "technique": "Obverse mid section punch", "direction": "A" },
+    { "n": 10, "footwork": "Bring left foot back to right, then move left foot back", "stance": "Right walking stance", "technique": "Obverse low section outer forearm block", "direction": "D" },
+    { "n": 11, "footwork": "Move left foot forward", "stance": "Left walking stance", "technique": "Obverse mid section punch", "direction": "D" },
+    { "n": 12, "footwork": "Bring left foot back to right, then move left foot back", "stance": "Right walking stance", "technique": "Obverse low section outer forearm block", "direction": "C" },
+    { "n": 13, "footwork": "Move left foot forward", "stance": "Left walking stance", "technique": "Obverse mid section punch", "direction": "C" },
+    { "n": 14, "footwork": "Bring left foot back to right, then move left foot back", "stance": "Right walking stance", "technique": "Obverse low section outer forearm block", "direction": "B" },
+    { "n": 15, "footwork": "Move left foot forward", "stance": "Left walking stance", "technique": "Obverse mid section punch", "direction": "B" }
+  ],
+  "notes": []
+}

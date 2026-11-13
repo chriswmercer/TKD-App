@@ -1,0 +1,143 @@
+{
+ "gradeParam": 9,
+ "id": "2nd-kup",
+ "name": "2nd Kup",
+ "beltColour": "Red",
+ "type": "kup",
+ "rank": 2,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=9",
+ "practical": [
+  {
+   "title": "Combinations in line from Patterns",
+   "detail": ""
+  },
+  {
+   "title": "Patterns of the grading examiner's choice",
+   "detail": ""
+  },
+  {
+   "title": "Pattern: Hwa-Rang",
+   "detail": ""
+  },
+  {
+   "title": "3 Step Sparring",
+   "detail": ""
+  },
+  {
+   "title": "2 Step Sparring",
+   "detail": ""
+  },
+  {
+   "title": "1 Step Sparring",
+   "detail": "advanced"
+  },
+  {
+   "title": "Free Sparring",
+   "detail": ""
+  },
+  {
+   "title": "One Step Sparring (Ilbo Matsoki)",
+   "detail": "Red belts develop their own techniques, see sparring"
+  }
+ ],
+ "theory": [
+  {
+   "question": "What is 3 step sparring",
+   "answer": "A drill for beginners to learn basic techniques. It teaches correct distance, facing, forearm conditioning, blocks, stances, counter attacks and timing."
+  }
+ ],
+ "terminology": [
+  {
+   "category": "stance",
+   "english": "Closed Ready Stance 'C'",
+   "korean": "Moa chunbi Sogi 'C'"
+  },
+  {
+   "category": "technique",
+   "english": "Flying high kick",
+   "korean": "Twimyo nopi chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Pushing Block",
+   "korean": "Miro Makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Sweeping block",
+   "korean": "Hullyo makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Twin foot kick",
+   "korean": "Sang bal chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Twisting kick",
+   "korean": "Bituro chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Upward Punch",
+   "korean": "Ollyo Jirugi"
+  },
+  {
+   "category": "technique",
+   "english": "Vertical kick",
+   "korean": "Sewo chagi"
+  },
+  {
+   "category": "body",
+   "english": "Instep",
+   "korean": "Baldung"
+  },
+  {
+   "category": "body",
+   "english": "Reverse footsword",
+   "korean": "Baldal dung"
+  },
+  {
+   "category": "other",
+   "english": "Inside",
+   "korean": "An"
+  },
+  {
+   "category": "other",
+   "english": "Outside",
+   "korean": "Bakat"
+  }
+ ],
+ "patterns": [
+  "Hwa-Rang"
+ ],
+ "sparring": [
+  "ONE STEP SPARRING (ILBO MATSOKI): Both attacker and defender start in parallel ready position; attacker steps forward with right leg into walking stance and punches with right hand. On the second occasion the same attacker steps forward with left leg and left hand punching.",
+  "Red belts are expected to develop their own techniques on one step sparring using these guidelines (not in any set order): 1. Hand only. 2. Foot only. 3. Hand and foot. 4. Foot and hand. 5. Jumping."
+ ],
+ "otherSections": [
+  {
+   "heading": "Sheet note",
+   "items": [
+    "Variations of the grading format are at the examiner's discretion; the sheet is for guidance only."
+   ]
+  },
+  {
+   "heading": "Hwa-Rang pattern summary",
+   "items": [
+    "29 movements; starts in closed ready stance C; named for the Hwa-Rang youth group of the Silla Dynasty (about 600 AD); 29 refers to the 29th Infantry Division."
+   ]
+  },
+  {
+   "heading": "Quiz question on page",
+   "items": [
+    "Q: What is 'Straight Fingertip Thrust' in Korean? A: Sun Sonkut Tulgi"
+   ]
+  }
+ ],
+ "notes": [
+  "Belt colour taken from 'Red belts are expected...' text; heading itself gives no colour.",
+  "Page has a duplicated 'Theory' heading.",
+  "Terminology categories are my own classification."
+ ]
+}

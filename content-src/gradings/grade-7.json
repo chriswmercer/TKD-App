@@ -1,0 +1,222 @@
+{
+ "gradeParam": 7,
+ "id": "4th-kup",
+ "name": "4th Kup",
+ "beltColour": "Blue",
+ "type": "kup",
+ "rank": 4,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=7",
+ "practical": [
+  {
+   "title": "Pattern of the student's choice",
+   "detail": "excluding Joong-Gun"
+  },
+  {
+   "title": "Pattern of the grading examiner's choice",
+   "detail": ""
+  },
+  {
+   "title": "Pattern: Joong-Gun",
+   "detail": ""
+  },
+  {
+   "title": "2 Step Sparring",
+   "detail": "Numbers 5, 6, 7 & 8"
+  },
+  {
+   "title": "3 Step Semi-Free Sparring",
+   "detail": "advanced"
+  },
+  {
+   "title": "Padwork",
+   "detail": ""
+  },
+  {
+   "title": "Free Sparring",
+   "detail": ""
+  }
+ ],
+ "theory": [
+  {
+   "question": "What is Free Sparring",
+   "answer": "Free sparring means applying everything learned so far with no warning of the attack, so fewer defensive techniques can be rehearsed than in other sparring types. It can be done without pads and must be strictly non-contact. Semi-contact is allowed only with proper supervision (safety boots and gloves) from a qualified instructor."
+  }
+ ],
+ "terminology": [
+  {
+   "category": "technique",
+   "english": "Arc hand",
+   "korean": "Bandal son"
+  },
+  {
+   "category": "technique",
+   "english": "Back kick",
+   "korean": "Dwit chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Consecutive kick",
+   "korean": "Yonsok chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Downward block",
+   "korean": "Naeryo makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Downward kick",
+   "korean": "Naeryo chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Front elbow strike",
+   "korean": "Ap palkup taerigi"
+  },
+  {
+   "category": "technique",
+   "english": "Inward knifehand strike",
+   "korean": "Anearo sonkal taerigi"
+  },
+  {
+   "category": "technique",
+   "english": "Pressing kick",
+   "korean": "Noollo chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Pressing Block",
+   "korean": "Noollo  Makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Reverse turning hooking kick",
+   "korean": "Bandae dollyo goro chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Scooping block",
+   "korean": "Duro makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Side elbow strike",
+   "korean": "Yop palkup taerigi"
+  },
+  {
+   "category": "technique",
+   "english": "Side fist side strike",
+   "korean": "Yop joomuk yop taerigi"
+  },
+  {
+   "category": "technique",
+   "english": "Side thrust kick",
+   "korean": "Yop cha tulgi"
+  },
+  {
+   "category": "technique",
+   "english": "Turning punch",
+   "korean": "Dollyo jirugi"
+  },
+  {
+   "category": "technique",
+   "english": "Twin knifehand block",
+   "korean": "Sang sonkal makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Twin upset punch",
+   "korean": "Sang dwijibo jirugi"
+  },
+  {
+   "category": "technique",
+   "english": "Upper elbow strike",
+   "korean": "Wi palkup taeregi"
+  },
+  {
+   "category": "technique",
+   "english": "X Block",
+   "korean": "Kyocha Makgi"
+  },
+  {
+   "category": "stance",
+   "english": "Closed Ready Stance 'B'",
+   "korean": "Moa Junbi Sogi 'B'"
+  },
+  {
+   "category": "stance",
+   "english": "Low Stance",
+   "korean": "Nachuo Sogi"
+  },
+  {
+   "category": "stance",
+   "english": "Rear foot stance",
+   "korean": "Dwit bal sogi"
+  },
+  {
+   "category": "body",
+   "english": "Forging post",
+   "korean": "Dollyon joo"
+  },
+  {
+   "category": "body",
+   "english": "Side sole",
+   "korean": "Yop bal badak"
+  },
+  {
+   "category": "other",
+   "english": "One step sparring",
+   "korean": "Ilbo matsoki"
+  }
+ ],
+ "patterns": [
+  "Joong-Gun"
+ ],
+ "sparring": [
+  "TWO STEP SPARRING (IBO MATSOKI): Attacker starts right leg back, forearm guarding block. Defence starts in parallel ready stance.",
+  "5. Attack = Right back kick, left walking stance, high palm strike. Defence = Right L stance, palm waist block, left L stance, inward outer forearm block. Counter = Right walking stance, left reverse knifehand, middle inward strike (slipping right foot).",
+  "6. Attack = Right high turning kick, left walking stance arc-hand strike. Defence = Sitting stance twin straight forearm block (moving left foot diagonally), right L stance palm hooking block (grabbing the arm). Counter = Left side kick (still holding grabbed arm).",
+  "7. Attack = Right fixed stance, side fist side strike, left middle reverse turning kick. Defence = Left L stance, twin forearm block, right L stance knifehand guarding block (sliding away using block as guard only). Counter = Right high reverse turning kick.",
+  "8. Attack = Right middle side kick, right L stance, knifehand high strike (turning clockwise). Defence = Right L stance, inward inner forearm waist block, right L stance knifehand guarding block (double stepping). Counter = Left X stance, high backfist side strike.",
+  "THREE STEP SEMI-FREE SPARRING (BAN JAYOO MATSOKI), Advanced Level: Attackers start in L stance, guarding block; defenders start in parallel stance. The attacker starts with either leg back every time.",
+  "Attack = Stepping forward, execute any three techniques (hand or foot). Defence = Any block suitable for each individual technique. Counter = Any hand or foot technique."
+ ],
+ "otherSections": [
+  {
+   "heading": "PAD WORK",
+   "items": [
+    "Measure and kick (technical kicks showing the correct kicking tool), from the following:",
+    "1. Side Kick",
+    "2. Turning Kick",
+    "3. Side Kick",
+    "4. Reverse Side Kick",
+    "5. Reverse Turning Kick"
+   ]
+  },
+  {
+   "heading": "Sheet note",
+   "items": [
+    "Variations of the grading format are at the examiner's discretion; the sheet is for guidance only."
+   ]
+  },
+  {
+   "heading": "Joong-Gun pattern summary",
+   "items": [
+    "32 movements; starts and ends in closed ready stance B; named for the patriot Ahn Joong-Gun; 32 is his age at execution in 1910."
+   ]
+  },
+  {
+   "heading": "Quiz question on page",
+   "items": [
+    "Q: What is 'Downward block' in Korean? A: Naeryo makgi"
+   ]
+  }
+ ],
+ "notes": [
+  "Belt colour not stated on the page.",
+  "Source spells 'Closed Ready Stance B' as 'Moa Junbi Sogi' here but 'Moa chunbi Sogi' at 2nd Kup.",
+  "Source typos: 'coreect', 'strickly', 'Noollo  Makgi' (double space), 'taeregi'.",
+  "Terminology categories are my own classification; the page gives one flat list.",
+  "Pad work kick list repeats Side Kick at items 1 and 3 as on the page."
+ ]
+}

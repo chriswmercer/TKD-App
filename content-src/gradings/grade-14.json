@@ -1,0 +1,54 @@
+{
+ "gradeParam": 14,
+ "id": "4th-dan",
+ "name": "4th Dan",
+ "beltColour": "Black",
+ "type": "dan",
+ "rank": 4,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=14",
+ "practical": [
+  {
+   "title": "Se-Jong",
+   "detail": "24 movements. Named after King Se-Jong, who created the Korean alphabet in 1443. Starts from closed ready stance B."
+  },
+  {
+   "title": "Tong-IL",
+   "detail": "56 movements. Symbolises the reunification of Korea, divided since 1945. Starts from parallel stance with overlapped back hand."
+  },
+  {
+   "title": "Ul-Ji",
+   "detail": "42 movements. Named after General Ul-Ji Moon Dok, who defended Korea against a Tang invasion in 612 AD. Starts from parallel stance with X-back hand."
+  }
+ ],
+ "theory": [],
+ "terminology": [],
+ "patterns": [
+  "Se-Jong",
+  "Tong-IL",
+  "Ul-Ji"
+ ],
+ "sparring": [],
+ "otherSections": [
+  {
+   "heading": "Examiner note",
+   "items": [
+    "Variations of the grading format are at the examiner's discretion; sheet is for guidance only."
+   ]
+  },
+  {
+   "heading": "Articles linked",
+   "items": [
+    "What is Tae Kwon-Do?",
+    "The History of the TAGB",
+    "TAGB Sparring Guide",
+    "What are patterns and why do we do them?",
+    "Korean quiz"
+   ]
+  }
+ ],
+ "notes": [
+  "Fetcher summarised the page; per-pattern movement lists were omitted.",
+  "No theory Q&A or sparring section reported.",
+  "Removed lone terminology entry that came from the site-wide quiz teaser widget, not the syllabus: Backfist strike"
+ ]
+}

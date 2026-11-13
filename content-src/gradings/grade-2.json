@@ -1,0 +1,166 @@
+{
+ "gradeParam": 2,
+ "id": "9th-kup",
+ "name": "9th Kup",
+ "beltColour": "White with yellow stripe",
+ "type": "kup",
+ "rank": 9,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=2",
+ "practical": [
+  {
+   "title": "Sitting stance: double punch",
+   "detail": ""
+  },
+  {
+   "title": "Walking ready stance: front kick",
+   "detail": ""
+  },
+  {
+   "title": "Walking stance: double punch",
+   "detail": ""
+  },
+  {
+   "title": "L stance: middle block",
+   "detail": ""
+  },
+  {
+   "title": "L stance: knifehand strike",
+   "detail": ""
+  },
+  {
+   "title": "Walking stance: low block / rising block",
+   "detail": ""
+  },
+  {
+   "title": "Pattern: Chon-Ji",
+   "detail": "19 movements"
+  }
+ ],
+ "theory": [
+  {
+   "question": "What is the meaning of the yellow belt?",
+   "answer": "Yellow stands for the earth, where a plant puts down roots; it reflects the foundation being laid in Tae Kwon-Do."
+  },
+  {
+   "question": "What is 'Waving kick' in Korean? (quiz widget)",
+   "answer": "Doro chagi"
+  }
+ ],
+ "terminology": [
+  {
+   "category": "body",
+   "english": "Back",
+   "korean": "Dung"
+  },
+  {
+   "category": "body",
+   "english": "Ball of foot",
+   "korean": "Ap Kumchi"
+  },
+  {
+   "category": "body",
+   "english": "Footsword",
+   "korean": "Balkal"
+  },
+  {
+   "category": "technique",
+   "english": "Front snap kick",
+   "korean": "Ap Chabusigi"
+  },
+  {
+   "category": "technique",
+   "english": "Guarding block",
+   "korean": "Daebi makgi"
+  },
+  {
+   "category": "body",
+   "english": "Head",
+   "korean": "Mori"
+  },
+  {
+   "category": "technique",
+   "english": "Kick",
+   "korean": "Chagi"
+  },
+  {
+   "category": "stance",
+   "english": "L Stance",
+   "korean": "Niunja Sogi"
+  },
+  {
+   "category": "other",
+   "english": "Left",
+   "korean": "Wen"
+  },
+  {
+   "category": "other",
+   "english": "Outside",
+   "korean": "Bakat"
+  },
+  {
+   "category": "other",
+   "english": "Pattern",
+   "korean": "Tul"
+  },
+  {
+   "category": "other",
+   "english": "Press ups",
+   "korean": "Momtong Bachia"
+  },
+  {
+   "category": "stance",
+   "english": "Ready stance",
+   "korean": "Chumbi sogi"
+  },
+  {
+   "category": "other",
+   "english": "Right",
+   "korean": "Orun"
+  },
+  {
+   "category": "technique",
+   "english": "Rising Block",
+   "korean": "Chookyo makgi"
+  },
+  {
+   "category": "other",
+   "english": "Side",
+   "korean": "Yop"
+  },
+  {
+   "category": "other",
+   "english": "Three step sparring",
+   "korean": "Sambo matsoki"
+  },
+  {
+   "category": "technique",
+   "english": "Waving kick",
+   "korean": "Doro chagi"
+  }
+ ],
+ "patterns": [
+  "Chon-Ji"
+ ],
+ "sparring": [],
+ "otherSections": [
+  {
+   "heading": "Chon-Ji pattern summary",
+   "items": [
+    "19 movements; Heaven and Earth, the first pattern for beginners, in two similar parts.",
+    "Starts in parallel ready stance facing line D from line AB.",
+    "Alternating walking stances with low blocks and middle punches; L-stance middle blocks at movements 9, 11, 13 and 15; movements 17 to 19 are punches toward D.",
+    "Ends by returning the left foot to ready posture."
+   ]
+  },
+  {
+   "heading": "Disclaimer",
+   "items": [
+    "Variations of the grading format are at the examiner's discretion; the sheet is for guidance only."
+   ]
+  }
+ ],
+ "notes": [
+  "No separate sparring section; three step sparring only appears as a terminology item.",
+  "Fetcher reported 17 terminology pairs from the page; 'Waving kick / Doro chagi' was added from the quiz widget."
+ ]
+}

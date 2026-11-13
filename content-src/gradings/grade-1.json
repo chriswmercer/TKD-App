@@ -1,0 +1,305 @@
+{
+ "gradeParam": 1,
+ "id": "10th-kup",
+ "name": "10th Kup",
+ "beltColour": "White",
+ "type": "kup",
+ "rank": 10,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=1",
+ "practical": [
+  {
+   "title": "Sitting stance: single punch",
+   "detail": ""
+  },
+  {
+   "title": "Front rising kick exercise",
+   "detail": ""
+  },
+  {
+   "title": "Press-ups",
+   "detail": "10"
+  },
+  {
+   "title": "Sajo Jirugi",
+   "detail": "Four-directional punching"
+  },
+  {
+   "title": "Walking stance: middle punch",
+   "detail": "Forwards and backwards"
+  },
+  {
+   "title": "Walking stance: low block, reverse punch",
+   "detail": "Forwards and backwards"
+  },
+  {
+   "title": "Walking stance: middle block, reverse punch",
+   "detail": "Forwards and backwards"
+  }
+ ],
+ "theory": [
+  {
+   "question": "What is the meaning of the white belt?",
+   "answer": "It stands for the innocence of a beginner who has no prior knowledge of Tae Kwon-Do."
+  },
+  {
+   "question": "What are the five tenets of Tae Kwon-Do?",
+   "answer": "Courtesy, Integrity, Perseverance, Self Control and Indomitable Spirit."
+  },
+  {
+   "question": "What is 'Arc hand' in Korean? (quiz widget)",
+   "answer": "Bandal son"
+  }
+ ],
+ "terminology": [
+  {
+   "category": "number",
+   "english": "1",
+   "korean": "Hanna"
+  },
+  {
+   "category": "number",
+   "english": "2",
+   "korean": "Dool"
+  },
+  {
+   "category": "number",
+   "english": "3",
+   "korean": "Seth"
+  },
+  {
+   "category": "number",
+   "english": "4",
+   "korean": "Neth"
+  },
+  {
+   "category": "number",
+   "english": "5",
+   "korean": "Dasaul"
+  },
+  {
+   "category": "number",
+   "english": "6",
+   "korean": "Yosaul"
+  },
+  {
+   "category": "number",
+   "english": "7",
+   "korean": "Ilgop"
+  },
+  {
+   "category": "number",
+   "english": "8",
+   "korean": "Yodoll"
+  },
+  {
+   "category": "number",
+   "english": "9",
+   "korean": "Ahop"
+  },
+  {
+   "category": "number",
+   "english": "10",
+   "korean": "Yoll"
+  },
+  {
+   "category": "command",
+   "english": "Attention",
+   "korean": "Charyot"
+  },
+  {
+   "category": "command",
+   "english": "Attention stance",
+   "korean": "Charyot Sogi"
+  },
+  {
+   "category": "command",
+   "english": "Ready",
+   "korean": "Chunbi"
+  },
+  {
+   "category": "command",
+   "english": "Return to ready stance",
+   "korean": "Barrol"
+  },
+  {
+   "category": "command",
+   "english": "Start",
+   "korean": "Si-jak"
+  },
+  {
+   "category": "command",
+   "english": "Stop",
+   "korean": "Goman"
+  },
+  {
+   "category": "command",
+   "english": "Bow",
+   "korean": "Kyong Ye"
+  },
+  {
+   "category": "command",
+   "english": "Dismiss",
+   "korean": "Haessan"
+  },
+  {
+   "category": "other",
+   "english": "Instructor",
+   "korean": "Sabum"
+  },
+  {
+   "category": "other",
+   "english": "Student",
+   "korean": "Jeja"
+  },
+  {
+   "category": "other",
+   "english": "Training hall",
+   "korean": "Dojang"
+  },
+  {
+   "category": "other",
+   "english": "Training suit",
+   "korean": "Dobok"
+  },
+  {
+   "category": "other",
+   "english": "Belt",
+   "korean": "Ti"
+  },
+  {
+   "category": "other",
+   "english": "Foot-Fist-Art (Tae Kwon-Do)",
+   "korean": "Tae Kwon-Do"
+  },
+  {
+   "category": "other",
+   "english": "About turn",
+   "korean": "Dwiyro Torro"
+  },
+  {
+   "category": "other",
+   "english": "Backwards",
+   "korean": "Dwiyro Kaggi"
+  },
+  {
+   "category": "other",
+   "english": "Forwards",
+   "korean": "Apro Kaggi"
+  },
+  {
+   "category": "stance",
+   "english": "Parallel stance",
+   "korean": "Narani sogi"
+  },
+  {
+   "category": "stance",
+   "english": "Sitting stance",
+   "korean": "Annun Sogi"
+  },
+  {
+   "category": "stance",
+   "english": "Walking stance",
+   "korean": "Gunnun Sogi"
+  },
+  {
+   "category": "technique",
+   "english": "Four-directional punch",
+   "korean": "Sajo Jirugi"
+  },
+  {
+   "category": "technique",
+   "english": "Front rising kick",
+   "korean": "Ap Chaolligi"
+  },
+  {
+   "category": "technique",
+   "english": "Side rising kick",
+   "korean": "Yop chaolligi"
+  },
+  {
+   "category": "technique",
+   "english": "Obverse punch",
+   "korean": "Baro jirugi"
+  },
+  {
+   "category": "technique",
+   "english": "Reverse punch",
+   "korean": "Bandae jirugi"
+  },
+  {
+   "category": "technique",
+   "english": "Inner forearm block",
+   "korean": "An palmok makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Outer forearm block",
+   "korean": "Bakat palmok makgi"
+  },
+  {
+   "category": "body",
+   "english": "Forearm",
+   "korean": "Palmok"
+  },
+  {
+   "category": "body",
+   "english": "Forefist",
+   "korean": "Ap Joomuk"
+  },
+  {
+   "category": "body",
+   "english": "Inner forearm",
+   "korean": "An Palmok"
+  },
+  {
+   "category": "body",
+   "english": "Outer forearm",
+   "korean": "Bakat Palmok"
+  },
+  {
+   "category": "body",
+   "english": "High section",
+   "korean": "Nopunde"
+  },
+  {
+   "category": "body",
+   "english": "Middle section",
+   "korean": "Kaunde"
+  },
+  {
+   "category": "body",
+   "english": "Low section",
+   "korean": "Najunde"
+  },
+  {
+   "category": "technique",
+   "english": "Arc hand",
+   "korean": "Bandal son"
+  }
+ ],
+ "patterns": [
+  "Sajo-Jirugi No1",
+  "Sajo-Jirugi No2"
+ ],
+ "sparring": [],
+ "otherSections": [
+  {
+   "heading": "Sajo-Jirugi No1 (15 movements)",
+   "items": [
+    "Starts from parallel ready stance, alternating right and left walking stances toward points A, B, C and D; each step pairs a middle obverse punch with a low outer forearm block; finishes in parallel ready stance."
+   ]
+  },
+  {
+   "heading": "Sajo-Jirugi No2 (15 movements)",
+   "items": [
+    "Same footwork as No1, but the low outer forearm blocks are replaced by middle inner forearm blocks."
+   ]
+  }
+ ],
+ "notes": [
+  "Page has no sparring section; only a link to the TAGB Sparring Guide.",
+  "Belt colour 'White' is taken from the theory answer about the white belt.",
+  "The 'Arc hand' quiz answer is not strictly part of the grade list; it is included in theory and terminology.",
+  "The page's pattern list shows all 26 TAGB patterns; only the Sajo-Jirugi patterns are described in detail for this grade (practical lists 'Sajo Jirugi')."
+ ]
+}

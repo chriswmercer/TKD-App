@@ -1,0 +1,118 @@
+{
+ "gradeParam": 10,
+ "id": "1st-kup",
+ "name": "1st Kup",
+ "beltColour": "Red with black stripe",
+ "type": "kup",
+ "rank": 1,
+ "sourceUrl": "https://www.blackbeltschools.com/syllabus/gradings.asp?grade=10",
+ "practical": [
+  {
+   "title": "Combinations in line from Patterns",
+   "detail": ""
+  },
+  {
+   "title": "Colour belt pattern of your choice",
+   "detail": "excluding Choong Moo"
+  },
+  {
+   "title": "Pattern of grading examiner's choice",
+   "detail": ""
+  },
+  {
+   "title": "Pattern: Choong Moo",
+   "detail": ""
+  },
+  {
+   "title": "3 Step Sparring",
+   "detail": ""
+  },
+  {
+   "title": "2 Step Sparring",
+   "detail": ""
+  },
+  {
+   "title": "1 Step Sparring",
+   "detail": "advanced"
+  },
+  {
+   "title": "Free Sparring",
+   "detail": ""
+  }
+ ],
+ "theory": [
+  {
+   "question": "Hand Parts",
+   "answer": "Listed as a theory topic only; the page gives no answer."
+  },
+  {
+   "question": "Foot Parts",
+   "answer": "Listed as a theory topic only; the page gives no answer."
+  }
+ ],
+ "terminology": [
+  {
+   "category": "technique",
+   "english": "Checking block",
+   "korean": "Momchau makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Double arc hand block",
+   "korean": "Doo bandalson makgi"
+  },
+  {
+   "category": "technique",
+   "english": "Flat fingertip thrust",
+   "korean": "Opun sonkut tulgi"
+  },
+  {
+   "category": "technique",
+   "english": "Overhead kick",
+   "korean": "Twio nomo chagi"
+  },
+  {
+   "category": "technique",
+   "english": "Side fist",
+   "korean": "Yop joomuk"
+  },
+  {
+   "category": "technique",
+   "english": "Stamping kick",
+   "korean": "Cha bapgi"
+  },
+  {
+   "category": "technique",
+   "english": "Sweeping kick",
+   "korean": "Goro chagi"
+  },
+  {
+   "category": "stance",
+   "english": "One leg stance",
+   "korean": "Wae bal sogi"
+  },
+  {
+   "category": "body",
+   "english": "Reverse knifehand",
+   "korean": "Sonkal dung"
+  }
+ ],
+ "patterns": [
+  "Choong-Moo"
+ ],
+ "sparring": [],
+ "otherSections": [
+  {
+   "heading": "Sheet note",
+   "items": [
+    "Variations of the grading format are at the examiner's discretion; the sheet is for guidance only."
+   ]
+  }
+ ],
+ "notes": [
+  "Belt colour not stated on the page.",
+  "Pattern is written 'Choong Moo' on this page (site pattern list spells it Choong-Moo).",
+  "Theory section lists Hand Parts and Foot Parts with no content or answers; the page has no pattern description for Choong Moo at the bottom (blank section).",
+  "Terminology categories are my own classification."
+ ]
+}
